@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Jonathan
 
-- 🔭 I’m currently working on weather dashboard web app
+- 🔭 I’m currently working on a weather dashboard web app
 - 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on larger scale full-stack projects 
 - 🤔 I’m looking for help with leveraging the Web Audio API
