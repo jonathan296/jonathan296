@@ -7,4 +7,4 @@
 - 💬 Ask me about my current projects
 - 📫 How to reach me: jonathanalvarenga296@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Karaoke
+
